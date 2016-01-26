@@ -1,0 +1,5 @@
+.DS_Store
+cres_*
+tempdata/
+_pycache_/
+*.py[cod]

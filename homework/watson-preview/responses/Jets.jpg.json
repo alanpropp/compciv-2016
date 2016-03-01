@@ -1,5 +1,5 @@
 {"images":[
-	{"image":"a.jpg",
+	{"image":"Jets.jpg",
 	 "scores":[
 		 {"classifier_id":"Outdoors","name":"Outdoors","score":0.731562},
 		 {"classifier_id":"Sky_Scene","name":"Sky_Scene","score":0.714499},

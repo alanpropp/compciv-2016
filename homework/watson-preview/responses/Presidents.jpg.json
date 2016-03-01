@@ -1,5 +1,5 @@
 {"images":[
-	{"image":"c.jpg",
+	{"image":"Presidents.jpg",
 	 "scores":[
 		 {"classifier_id":"Scene","name":"Scene","score":0.674619},
 		 {"classifier_id":"Activity","name":"Activity","score":0.630261},

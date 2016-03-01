@@ -1,5 +1,5 @@
 {"images":[
-	{"image":"e.jpg",
+	{"image":"Soldier.jpg",
 	 "scores":[
 		 {"classifier_id":"Truck","name":"Truck","score":0.644631},
 		 {"classifier_id":"Anechoic_Chamber","name":"Anechoic_Chamber","score":0.627885},

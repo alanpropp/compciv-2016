@@ -1,5 +1,5 @@
 {"images":[
-	{"image":"b.jpg",
+	{"image":"Eagle.jpg",
 	 "scores":[
 		 {"classifier_id":"Bird","name":"Bird","score":0.642035},
 		 {"classifier_id":"Arthropod","name":"Arthropod","score":0.627367},

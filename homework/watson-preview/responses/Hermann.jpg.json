@@ -1,5 +1,5 @@
 {"images":[
-	{"image":"d.jpg",
+	{"image":"Hermann.jpg",
 	 "scores":[
 		 {"classifier_id":"Animal_Tending","name":"Animal_Tending","score":0.670185},
 		 {"classifier_id":"Vertebrate","name":"Vertebrate","score":0.601661},

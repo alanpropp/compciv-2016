@@ -1,0 +1,18 @@
+{"images":[
+	{"image":"b.jpg",
+	 "scores":[
+		 {"classifier_id":"Bird","name":"Bird","score":0.642035},
+		 {"classifier_id":"Arthropod","name":"Arthropod","score":0.627367},
+		 {"classifier_id":"Animal","name":"Animal","score":0.624417},
+		 {"classifier_id":"Owl","name":"Owl","score":0.617145},
+		 {"classifier_id":"High_Jump","name":"High_Jump","score":0.59115},
+		 {"classifier_id":"Escalator","name":"Escalator","score":0.583611},
+		 {"classifier_id":"Yellow","name":"Yellow","score":0.569836},
+		 {"classifier_id":"Scene","name":"Scene","score":0.559096},
+		 {"classifier_id":"Indoors","name":"Indoors","score":0.558296},
+		 {"classifier_id":"Celebration","name":"Celebration","score":0.530661},
+		 {"classifier_id":"Graduation","name":"Graduation","score":0.530223},
+		 {"classifier_id":"Flower_Scene","name":"Flower_Scene","score":0.528029},
+		 {"classifier_id":"Sky_Scene","name":"Sky_Scene","score":0.525856},
+		 {"classifier_id":"Burning","name":"Burning","score":0.51381}]}]
+}

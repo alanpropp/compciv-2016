@@ -1,0 +1,20 @@
+{"images":[
+	{"image":"a.jpg",
+	 "scores":[
+		 {"classifier_id":"Outdoors","name":"Outdoors","score":0.731562},
+		 {"classifier_id":"Sky_Scene","name":"Sky_Scene","score":0.714499},
+		 {"classifier_id":"Water_Vehicle","name":"Water_Vehicle","score":0.709356},
+		 {"classifier_id":"Scene","name":"Scene","score":0.686779},
+		 {"classifier_id":"Skiing","name":"Skiing","score":0.684519},
+		 {"classifier_id":"Blue","name":"Blue","score":0.647395},
+		 {"classifier_id":"Vehicle","name":"Vehicle","score":0.614253},
+		 {"classifier_id":"Blue_Sky","name":"Blue_Sky","score":0.607944},
+		 {"classifier_id":"Wombat","name":"Wombat","score":0.606039},
+		 {"classifier_id":"Landmark","name":"Landmark","score":0.603754},
+		 {"classifier_id":"Ship","name":"Ship","score":0.603087},
+		 {"classifier_id":"Snow_Sport","name":"Snow_Sport","score":0.601796},
+		 {"classifier_id":"Downhill_Skiing","name":"Downhill_Skiing","score":0.585184},
+		 {"classifier_id":"Lighthouse","name":"Lighthouse","score":0.574753},
+		 {"classifier_id":"Graduation","name":"Graduation","score":0.570766},
+		 {"classifier_id":"Windmill","name":"Windmill","score":0.559407}]}]
+}

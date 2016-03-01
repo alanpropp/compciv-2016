@@ -1,0 +1,19 @@
+{"images":[
+	{"image":"d.jpg",
+	 "scores":[
+		 {"classifier_id":"Animal_Tending","name":"Animal_Tending","score":0.670185},
+		 {"classifier_id":"Vertebrate","name":"Vertebrate","score":0.601661},
+		 {"classifier_id":"Cat","name":"Cat","score":0.601557},
+		 {"classifier_id":"Head_and_Shoulders","name":"Head_and_Shoulders","score":0.585978},
+		 {"classifier_id":"Squash_Court","name":"Squash_Court","score":0.58242},
+		 {"classifier_id":"Animal","name":"Animal","score":0.581057},
+		 {"classifier_id":"Indoors","name":"Indoors","score":0.568889},
+		 {"classifier_id":"Person","name":"Person","score":0.566666},
+		 {"classifier_id":"Child","name":"Child","score":0.544824},
+		 {"classifier_id":"Sky_Scene","name":"Sky_Scene","score":0.544796},
+		 {"classifier_id":"Brown","name":"Brown","score":0.538902},
+		 {"classifier_id":"Girl","name":"Girl","score":0.531177},
+		 {"classifier_id":"Rainbow","name":"Rainbow","score":0.527762},
+		 {"classifier_id":"Spelunking","name":"Spelunking","score":0.521099},
+		 {"classifier_id":"Cliff_Diving","name":"Cliff_Diving","score":0.506965}]}]
+}

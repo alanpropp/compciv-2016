@@ -1,0 +1,19 @@
+{"images":[
+	{"image":"c.jpg",
+	 "scores":[
+		 {"classifier_id":"Scene","name":"Scene","score":0.674619},
+		 {"classifier_id":"Activity","name":"Activity","score":0.630261},
+		 {"classifier_id":"Carrousel","name":"Carrousel","score":0.614939},
+		 {"classifier_id":"Mixed_Color","name":"Mixed_Color","score":0.610716},
+		 {"classifier_id":"Group_of_People","name":"Group_of_People","score":0.593495},
+		 {"classifier_id":"People_Activity","name":"People_Activity","score":0.575612},
+		 {"classifier_id":"Heavy_Truck","name":"Heavy_Truck","score":0.564125},
+		 {"classifier_id":"Engine_Room","name":"Engine_Room","score":0.561209},
+		 {"classifier_id":"Subway_Interior","name":"Subway_Interior","score":0.560683},
+		 {"classifier_id":"Small_Group","name":"Small_Group","score":0.542745},
+		 {"classifier_id":"Snack_Food","name":"Snack_Food","score":0.542745},
+		 {"classifier_id":"Musical_Instrument","name":"Musical_Instrument","score":0.542322},
+		 {"classifier_id":"Team_Indoor_Sport","name":"Team_Indoor_Sport","score":0.539269},
+		 {"classifier_id":"Clothing","name":"Clothing","score":0.538769},
+		 {"classifier_id":"Boxing","name":"Boxing","score":0.531119}]}]
+}

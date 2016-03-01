@@ -1,0 +1,18 @@
+{"images":[
+	{"image":"e.jpg",
+	 "scores":[
+		 {"classifier_id":"Truck","name":"Truck","score":0.644631},
+		 {"classifier_id":"Anechoic_Chamber","name":"Anechoic_Chamber","score":0.627885},
+		 {"classifier_id":"Rail_Travel_Scene","name":"Rail_Travel_Scene","score":0.6229},
+		 {"classifier_id":"Vehicle","name":"Vehicle","score":0.622194},
+		 {"classifier_id":"Water_Vehicle","name":"Water_Vehicle","score":0.620023},
+		 {"classifier_id":"Full_Body","name":"Full_Body","score":0.616175},
+		 {"classifier_id":"Natural_Activity","name":"Natural_Activity","score":0.611136},
+		 {"classifier_id":"Earthquake","name":"Earthquake","score":0.602352},
+		 {"classifier_id":"Crosswalk","name":"Crosswalk","score":0.597787},
+		 {"classifier_id":"Boxing","name":"Boxing","score":0.596785},
+		 {"classifier_id":"Auto_Factory","name":"Auto_Factory","score":0.593825},
+		 {"classifier_id":"Gray","name":"Gray","score":0.5775},
+		 {"classifier_id":"Leisure_Swimming","name":"Leisure_Swimming","score":0.572202},
+		 {"classifier_id":"Mixed_Color","name":"Mixed_Color","score":0.504263}]}]
+}

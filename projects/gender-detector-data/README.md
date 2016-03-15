@@ -39,6 +39,6 @@
 ###Performs the analyses given below
 
 #Analysis:
-###- I would like to first run an analysis simply seeing how many female and male prizes were awarded each year
+###- I would like to first run an analysis simply seeing how many female and male prizes were awarded total
 ###- I would then like to break down how many awards were awarded to men and women by category of Nobel Prize
 ###- Finally, I would like to see the percentage of men and women who won prizes from specific countries, to see if there are any particularly good or horrendous countries in terms of gender breakdown

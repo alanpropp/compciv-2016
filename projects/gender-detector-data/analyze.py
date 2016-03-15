@@ -135,7 +135,6 @@ for x in range(len(all_names)):
 #Country-based male/female ratio analysis (printing only). Original
 #plan was to find which countries had more female winners than male
 #winners but (sadly) that number is depressingly tiny
-print('Countries with female winners:')
 print("The only countries with female winners were: ")
 for entry in countries:
 	males = countries[entry]['Male']
